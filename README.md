@@ -1,5 +1,7 @@
 # jekyll-fulmine
-A jekyll implementation for my Fulmine use case.
+A jekyll implementation for my ⚡️ Fulmine use case.
+
+ <img src='https://github.com/palladius/jekyll-fulmine/raw/master/fulmine/logo.png' height='300' align='right' />
 
 ## IDeas
 
