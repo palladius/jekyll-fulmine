@@ -16,6 +16,10 @@ install:
 
 install-mac:
 	gem install -n ~/bin jekyll
-	~/bin/jekyll new fulmine
+#~/bin/
+	jekyll new fulmine
 
 
+build:
+#~/bin/
+	jekyll build

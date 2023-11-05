@@ -22,8 +22,7 @@ For search some ideas:
 
 ## TODOs
 
-* Netlify to render this.
-*
+* Netlify to render this: <https://spontaneous-travesseiro-10cf09.netlify.app/> (broken now)
 
 ## Readings
 

@@ -40,3 +40,6 @@ gem "webrick", "~> 1.8"
 # group :jekyll_plugins do
 #   gem 'jekyll-algolia', '~> 1.0'
 # end
+
+# Riccardo: needed by netlify maybe: https://www.netlify.com/blog/2015/11/06/a-step-by-step-guide-jekyll-netlify-cms/
+gem 'jekyll-sitemap'
