@@ -7,7 +7,11 @@
 # gem install -n ~/bin jekyll
 
 run-dev-p4000:
-	bundle exec jekyll serve --livereload --trace
+#	bundle exec jekyll serve --livereload --trace
+	bundle exec jekyll serve --watch
+
+
+
 run-prod-p4000:
 	bundle exec jekyll serve --port 8080
 

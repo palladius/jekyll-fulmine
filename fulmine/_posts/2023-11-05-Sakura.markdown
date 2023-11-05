@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome to 🌸 Sakura!"
+date:   2023-11-05 10:28:37 +0100
+categories: jekyll update
+URL: http://
+#  - Title: Riccardo 🌸Sakura🌸 repo
+Description: stands for "Swiss Army Knife Unnecessary Repository yet Awesome" (🇨🇭🔪🍍🍕📦😆)
+URL: https://github.com/palladius/sakura
+Image: https://raw.githubusercontent.com/palladius/sakura/master/images/a_puffin_walking_in_an_ancient_Japanese_town.png
+---
+
+Welcome to Sakura.
+This would look like this from some automation script.
