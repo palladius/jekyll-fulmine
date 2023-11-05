@@ -3,7 +3,13 @@ websites:
     URL: https://www.google.com/
     Description: A popular search engine.
     Image: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+    Score: 80
+
+  - Title: Google Cloud - Generative AI
+    URL: https://github.com/GoogleCloudPlatform/generative-ai
+    Image: https://avatars.githubusercontent.com/u/6472959?v=4
     Score: 100
+
   - Title: Wikipedia
     URL: https://www.wikipedia.org/
     Description: A free online encyclopedia.
@@ -33,3 +39,4 @@ websites:
 
   - Title: random page to searchj in Jekyll - maybe useful
     URL: https://github.com/christian-fei/Simple-Jekyll-Search
+

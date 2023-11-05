@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Fulmine ⚡️ Jekyll 👨🏻‍⚕️
+email: ricc+fulmine@google.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site aims at providing lightning-fast search access to a curated
+  DB of resources in Google Cloud, particularly for Generative AI.
+  See <a href='https://github.com/GoogleCloudPlatform/generative-ai'>Github repo</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: palladius
+github_username:  palladius
 
 # Build settings
 theme: minima
