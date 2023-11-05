@@ -22,7 +22,10 @@ For search some ideas:
 
 ## TODOs
 
-* Netlify to render this: <https://spontaneous-travesseiro-10cf09.netlify.app/> (broken now)
+* Netlify to render this: <https://spontaneous-travesseiro-10cf09.netlify.app/> (broken now).
+  * How to: <https://docs.netlify.com/integrations/frameworks/#jekyll>. Note
+  * Publish directory: _site ;)
+
 
 ## Readings
 
