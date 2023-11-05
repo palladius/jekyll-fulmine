@@ -1,7 +1,8 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: GenAI Recipes
+subtitle: A Jekyll site for GenAI Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  This
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,10 +15,10 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Gallery
+    #   url: /gallery
+    # - text: Shop
+    #   url : /shop
     - text: Contact
       url : /contact
 
@@ -25,8 +26,8 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author: Riccardo Carlesso
+author_bio: Hi, my name is Riccardo.
 author_email: "mail@sujaykundu.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
@@ -71,16 +72,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: palladius
+github_username:  palladius
+facebook_username: palladius
+linkedin_username: palladius
+behance_username: palladius
+instagram_username: palladius
+medium_username: palladius
+telegram_username: palladius
+dribbble_username: palladius
+flickr_username: palladius
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 

@@ -17,8 +17,14 @@ For search some ideas:
   * `Devlopr` 616 stars, last commit 9mo: demo <https://devlopr.netlify.app/#/>. Oh wow, thje search is a 7.5 but the blog style
     is AMAZING: <https://devlopr.netlify.app/blog/#/>and the blog pages are similar to what we want. Wow.
     Lets start with this!
+    * IOnstalled under `fulmine-devlopr-jekyll/` and pushed to netlify too: <https://meek-heliotrope-a05c2d.netlify.app/#/>
 
 * 👍 I really like this DIY create search article: <https://blog.webjeda.com/instant-jekyll-search/#step-1---create-a-json-file>
+
+## PROD Apps
+
+* Netlify original app: <https://spontaneous-travesseiro-10cf09.netlify.app/>
+* Devlopr secondary folder deployed to: <https://meek-heliotrope-a05c2d.netlify.app/>
 
 ## TODOs
 
