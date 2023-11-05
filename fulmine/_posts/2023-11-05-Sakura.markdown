@@ -12,3 +12,5 @@ Image: https://raw.githubusercontent.com/palladius/sakura/master/images/a_puffin
 
 Welcome to Sakura.
 This would look like this from some automation script.
+
+<https://github.com/palladius/sakura>
