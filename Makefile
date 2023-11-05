@@ -16,4 +16,6 @@ install-mac:
 	gem install -n ~/bin jekyll
 	~/bin/jekyll new fulmine
 
-
+# First clone..
+fulmine-devlopr-jekyll:
+	git clone https://github.com/sujaykundu777/devlopr-jekyll fulmine-devlopr-jekyll
