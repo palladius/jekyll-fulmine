@@ -4,5 +4,9 @@
 
 layout: home
 ---
+{% include search-lunr.html %}
 
 Ciao a tutti da Jekyll
+
+I'm following the Lunr instructions here: <https://jekyllcodex.org/without-plugin/search-lunr/>
+Too simple to be true!
